@@ -23,12 +23,12 @@ Utilizamos dois modelos de machine learning para prever os custos:
 ## Resultados
 
 - **Regressão Linear:**
-  - Erro Quadrático Médio (EQM): 5603.86
-  - Erro Absoluto Médio (MAE): 57.38
+  - Erro Quadrático Médio (EQM): 4788.79
+  - Erro Absoluto Médio (MAE):  54.95
 
 - **KNN (K-Nearest Neighbors):**
-  - Erro Quadrático Médio (EQM): 4596
-  - Erro Absoluto Médio (MAE): 48
+  - Erro Quadrático Médio (EQM): 4334.18
+  - Erro Absoluto Médio (MAE): 47.71
 
 Os resultados indicam que o modelo KNN apresentou um desempenho superior ao da Regressão Linear, com menores valores de EQM e MAE.
 
